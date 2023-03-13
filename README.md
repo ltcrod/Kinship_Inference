@@ -74,7 +74,7 @@ You can run KINgaroo from the terminal by typing:
 
 # Running KIN
 ```
-KIN [-h] -I  -O  -T  [-r] [-c] [-t] [-p] [-i]
+KIN [-h] -I  -O  [-r] [-c] [-t] [-p] [-i]
 ```
 -h: Help<br>
 -I: Path to the folder where you ran KINgaroo<br>
